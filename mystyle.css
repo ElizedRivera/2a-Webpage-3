@@ -10,6 +10,7 @@ h1 {
 
 #css {
   width: 300px;
+  background-color: white;
   border: 2px solid red;
   border-radius: 5px;
   padding: 50px;
