@@ -12,3 +12,10 @@ h1 {
   border: 3px solid #000;
   width: 150px;
 }
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
