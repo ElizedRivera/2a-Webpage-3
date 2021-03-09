@@ -7,3 +7,8 @@ h1 {
   color: #cc00cc;
   margin-left: 20px;
 }
+#macarons {
+  padding: 50px;
+  border: 3px solid #003;
+  background: #FFF;
+}
