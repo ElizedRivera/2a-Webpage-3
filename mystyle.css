@@ -8,9 +8,9 @@ h1 {
   margin-left: 20px;
 }
 
-#one {
+#Macarons {
   padding: 8px;
-  border: 15px solid orange;
+  border: 15px solid #000;
   width: 150px;
-  background-color: white;
+  background-color: #FF7F50;
 }
