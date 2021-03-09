@@ -9,8 +9,9 @@ h1 {
 }
 
 #riddle {
-  padding: 8px;
+  background-color: #FFFF03;
+  width: 300px;
   border: 15px solid blue;
-  width: 150px;
-  background-color: #FF7F50;
+  padding: 50px;
+  margin: 20px;
 }
