@@ -1,5 +1,5 @@
 body {
-  background-color: #00ffff;
+  background-color: lightpink;
   background-image: linear-gradient(pink,green);
 }
 
@@ -9,7 +9,6 @@ h1 {
 }
 
 #riddle {
-  background-color: lightpink;
   width: 300px;
   border: 15px solid black;
   padding: 50px;
