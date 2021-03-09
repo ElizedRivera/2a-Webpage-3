@@ -11,8 +11,8 @@ h1 {
 
 #css {
   width: 300px;
-  border: 8px solid white;
-  border-radius: 15px;
+  border: 15px solid white;
+  border-radius: 8px;
   padding: 50px;
   margin: 20px;
 }
