@@ -10,7 +10,7 @@ h1 {
 
 #css {
   width: 300px;
-  border: 2px #000;
+  border: 2px solid red;
   border-radius: 5px;
   padding: 50px;
   margin: 20px;
